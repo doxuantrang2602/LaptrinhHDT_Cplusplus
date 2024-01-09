@@ -1,0 +1,25 @@
+4
+01
+Xuan Trang
+Ha Noi
+2
+20
+12
+02
+Gia Nghien
+Ninh Binh
+1
+12
+20
+03
+Duc Duy
+Hung Yen
+3
+8
+15
+04
+Tien Manh
+Nam Dinh
+1
+16
+18

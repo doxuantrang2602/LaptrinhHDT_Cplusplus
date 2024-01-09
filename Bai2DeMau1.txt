@@ -1,0 +1,17 @@
+4
+01
+Do Xuan Trang
+2.5
+A2
+02
+Bui Duc Duy
+3
+A2
+03
+Phung Gia Nghien
+4.2
+A3
+04
+Hoang Van Thai
+5.3
+A1

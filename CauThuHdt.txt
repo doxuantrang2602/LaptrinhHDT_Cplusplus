@@ -1,0 +1,21 @@
+4
+01
+Do Xuan Trang
+2003
+4
+500
+02
+Bui Duc Duy
+2001
+6
+100
+03
+Vu Van Hoan
+2000
+9
+600
+04
+Nguyen Thanh Dat
+2006
+0
+550

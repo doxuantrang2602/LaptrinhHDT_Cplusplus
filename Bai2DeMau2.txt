@@ -1,0 +1,21 @@
+5
+01
+Do Xuan Trang
+9
+A2
+02
+Bui Duc Duy
+9.6
+A2
+03
+Phung Gia Nghien
+9.4
+A1
+04
+Pham Nhat Long
+8.2
+A3
+05
+Nguyen Vu Duc
+7.8
+A2
